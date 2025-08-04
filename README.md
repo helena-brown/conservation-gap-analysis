@@ -1,4 +1,4 @@
-# conservation-gap-analysis
+# READ ME
 
 In the spatial-analysis-workflow folder I have uploaded my edited files that I used to complete this analysis, and kept in the original files from the forked methodology for comparison
 
