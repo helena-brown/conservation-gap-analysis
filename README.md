@@ -1,5 +1,9 @@
 # conservation-gap-analysis
 
+In the spatial-analysis-workflow folder I have uploaded my edited files that I used to complete this analysis, and kept in the original files from the forked methodology for comparison
+
+Below is the READ ME forked from the original methodology 
+
 ### BACKGROUND
 
 This repository supports the Conservation Gap Analysis Methodology User Guide, which is an internal document of The Morton Arboretum, available to collaborators upon request; please email treeconservation@mortonarb.org to request access. Virtual training sessions for the methodology were held in June 2023, led by Emily Bruns and funded by The Morton Arboretum.
